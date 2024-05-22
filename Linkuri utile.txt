@@ -1,0 +1,12 @@
+Decoupling and bypass capacitors
+https://components101.com/articles/decoupling-capacitor-vs-bypass-capacitors-working-and-applications
+
+HC-05 module example(text from phone to microchip)
+https://www.ee-diary.com/2021/06/hc-05-bluetooth-module-and-atmega328p.html
+
+ATMEGA328p PU pin layout
+https://microcontrollerslab.com/atmega328p-microcontroller-pinout-prograamming-features-datasheet/
+
+JavaScript tutorials:
+https://www.youtube.com/watch?v=SBmSRK3feww
+https://www.youtube.com/watch?v=W6NZfCO5SIk

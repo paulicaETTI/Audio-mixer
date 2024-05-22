@@ -1,0 +1,5 @@
+	Proiectarea și realizarea unui sistem care va permite realizarea repetițiilor unei formații de muzică folosind căști. Sistemul va avea minimum 5 intrări stereo și 5 ieșiri stereo, câte una pentru fiecare membru. Fiecare membru își poate regla mixul celor 5 canale de intrare pentru ieșirea proprie. Comenzile pentru fiecare mix se vor da de la dispozitive mobile. 
+
+	Bonus: sistemul poate avea o ieșire master pentru a permite înregistrarea sesiunii cu un dispozitiv extern sau va permite înregistrarea locală a sesiunii. 
+
+	Contribuții: - proiectarea schemei bloc a sistemului - identificarea sistemului de comunicații potrivit pentru trimiterea comenzilor de reglare a mixurilor - analiză cerințelor de funcționare și identificarea circuitelor necesare pentru intrări și ieșiri - proiectarea și simularea unei ramuri a sistemului (realizarea unui mix - o ieșire - folosind semnalele de la toate intrările) - proiectarea aplicației mobile care permite reglarea selectarea ieșirii și realizarea mixului - prototiparea și verificarea unei ramuri a sistemului - proiectarea întregului sistem - realizarea fizică a sistemului - testarea sistemului
